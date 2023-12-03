@@ -96,7 +96,7 @@ class LaureateItem extends StatelessWidget {
       ),
     );
   }
-
+ 
   List<Widget> _buildPrizesList(List<Prize?>? prizes) {
     if (prizes == null || prizes.isEmpty) {
       return [Text('No prizes')];

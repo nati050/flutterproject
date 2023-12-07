@@ -8,23 +8,6 @@ import 'package:projectfluttar/models/countrymodel1.dart';
 
 
 class CountryService {
-//   final String apiUrl = 'http://api.nobelprize.org/v1/country.json';
-// Future<void> fetchData() async {
-//   const url = 'http://api.nobelprize.org/v1/country.json';
-//   final headers = {
-//     'Content-Type': 'application/json',
-//     'Authorization': 'Bearer YOUR_AUTH_TOKEN',
-//   };
-//   final response = await http.get(Uri.parse(url), headers: headers);
-
-//   if (response.statusCode == 200) {
-//     // Process the response data
-//     print(response.body);
-//   } else {
-//     // Handle error
-//     print('Request failed with status: ${response.statusCode}');
-//   }
-// }
 
 
 
